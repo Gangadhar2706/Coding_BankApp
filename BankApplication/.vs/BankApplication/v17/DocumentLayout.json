@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ganga\\source\\repos\\BankApplication\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{36AE5AE8-DCDF-4A6B-BE33-0E6AD88B5037}|BankApplication\\BankApplication.csproj|c:\\users\\ganga\\source\\repos\\bankapplication\\bankapplication\\features\\bankaccounts\\handlers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36AE5AE8-DCDF-4A6B-BE33-0E6AD88B5037}|BankApplication\\BankApplication.csproj|solutionrelative:bankapplication\\features\\bankaccounts\\handlers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36AE5AE8-DCDF-4A6B-BE33-0E6AD88B5037}|BankApplication\\BankApplication.csproj|c:\\users\\ganga\\source\\repos\\bankapplication\\bankapplication\\features\\bankaccounts\\queries.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36AE5AE8-DCDF-4A6B-BE33-0E6AD88B5037}|BankApplication\\BankApplication.csproj|solutionrelative:bankapplication\\features\\bankaccounts\\queries.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5339C4AE-3547-43AA-98B2-3C143BAB8510}|TestProject\\TestProject.csproj|c:\\users\\ganga\\source\\repos\\bankapplication\\testproject\\handlersunittestcases.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5339C4AE-3547-43AA-98B2-3C143BAB8510}|TestProject\\TestProject.csproj|solutionrelative:testproject\\handlersunittestcases.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5339C4AE-3547-43AA-98B2-3C143BAB8510}|TestProject\\TestProject.csproj|c:\\users\\ganga\\source\\repos\\bankapplication\\testproject\\controllerunittestcases .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5339C4AE-3547-43AA-98B2-3C143BAB8510}|TestProject\\TestProject.csproj|solutionrelative:testproject\\controllerunittestcases .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36AE5AE8-DCDF-4A6B-BE33-0E6AD88B5037}|BankApplication\\BankApplication.csproj|c:\\users\\ganga\\source\\repos\\bankapplication\\bankapplication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36AE5AE8-DCDF-4A6B-BE33-0E6AD88B5037}|BankApplication\\BankApplication.csproj|solutionrelative:bankapplication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36AE5AE8-DCDF-4A6B-BE33-0E6AD88B5037}|BankApplication\\BankApplication.csproj|c:\\users\\ganga\\source\\repos\\bankapplication\\bankapplication\\features\\bankaccounts\\commands.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36AE5AE8-DCDF-4A6B-BE33-0E6AD88B5037}|BankApplication\\BankApplication.csproj|solutionrelative:bankapplication\\features\\bankaccounts\\commands.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36AE5AE8-DCDF-4A6B-BE33-0E6AD88B5037}|BankApplication\\BankApplication.csproj|c:\\users\\ganga\\source\\repos\\bankapplication\\bankapplication\\data\\inmemorydatacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36AE5AE8-DCDF-4A6B-BE33-0E6AD88B5037}|BankApplication\\BankApplication.csproj|solutionrelative:bankapplication\\data\\inmemorydatacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36AE5AE8-DCDF-4A6B-BE33-0E6AD88B5037}|BankApplication\\BankApplication.csproj|c:\\users\\ganga\\source\\repos\\bankapplication\\bankapplication\\models\\bankaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36AE5AE8-DCDF-4A6B-BE33-0E6AD88B5037}|BankApplication\\BankApplication.csproj|solutionrelative:bankapplication\\models\\bankaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Queries.cs",
+              "DocumentMoniker": "C:\\Users\\ganga\\source\\repos\\BankApplication\\BankApplication\\Features\\BankAccounts\\Queries.cs",
+              "RelativeDocumentMoniker": "BankApplication\\Features\\BankAccounts\\Queries.cs",
+              "ToolTip": "C:\\Users\\ganga\\source\\repos\\BankApplication\\BankApplication\\Features\\BankAccounts\\Queries.cs",
+              "RelativeToolTip": "BankApplication\\Features\\BankAccounts\\Queries.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-26T19:33:46.542Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Handlers.cs",
+              "DocumentMoniker": "C:\\Users\\ganga\\source\\repos\\BankApplication\\BankApplication\\Features\\BankAccounts\\Handlers.cs",
+              "RelativeDocumentMoniker": "BankApplication\\Features\\BankAccounts\\Handlers.cs",
+              "ToolTip": "C:\\Users\\ganga\\source\\repos\\BankApplication\\BankApplication\\Features\\BankAccounts\\Handlers.cs",
+              "RelativeToolTip": "BankApplication\\Features\\BankAccounts\\Handlers.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-26T14:44:30.224Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Commands.cs",
+              "DocumentMoniker": "C:\\Users\\ganga\\source\\repos\\BankApplication\\BankApplication\\Features\\BankAccounts\\Commands.cs",
+              "RelativeDocumentMoniker": "BankApplication\\Features\\BankAccounts\\Commands.cs",
+              "ToolTip": "C:\\Users\\ganga\\source\\repos\\BankApplication\\BankApplication\\Features\\BankAccounts\\Commands.cs",
+              "RelativeToolTip": "BankApplication\\Features\\BankAccounts\\Commands.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAkAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-26T14:48:24.034Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ControllerUnitTestcases .cs",
+              "DocumentMoniker": "C:\\Users\\ganga\\source\\repos\\BankApplication\\TestProject\\ControllerUnitTestcases .cs",
+              "RelativeDocumentMoniker": "TestProject\\ControllerUnitTestcases .cs",
+              "ToolTip": "C:\\Users\\ganga\\source\\repos\\BankApplication\\TestProject\\ControllerUnitTestcases .cs",
+              "RelativeToolTip": "TestProject\\ControllerUnitTestcases .cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAACMAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-26T18:35:22.915Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HandlersUnitTestcases.cs",
+              "DocumentMoniker": "C:\\Users\\ganga\\source\\repos\\BankApplication\\TestProject\\HandlersUnitTestcases.cs",
+              "RelativeDocumentMoniker": "TestProject\\HandlersUnitTestcases.cs",
+              "ToolTip": "C:\\Users\\ganga\\source\\repos\\BankApplication\\TestProject\\HandlersUnitTestcases.cs",
+              "RelativeToolTip": "TestProject\\HandlersUnitTestcases.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAAADMAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-26T19:13:03.216Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ganga\\source\\repos\\BankApplication\\BankApplication\\Program.cs",
+              "RelativeDocumentMoniker": "BankApplication\\Program.cs",
+              "ToolTip": "C:\\Users\\ganga\\source\\repos\\BankApplication\\BankApplication\\Program.cs",
+              "RelativeToolTip": "BankApplication\\Program.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAAABsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-26T14:50:13.171Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "InMemoryDataContext.cs",
+              "DocumentMoniker": "C:\\Users\\ganga\\source\\repos\\BankApplication\\BankApplication\\Data\\InMemoryDataContext.cs",
+              "RelativeDocumentMoniker": "BankApplication\\Data\\InMemoryDataContext.cs",
+              "ToolTip": "C:\\Users\\ganga\\source\\repos\\BankApplication\\BankApplication\\Data\\InMemoryDataContext.cs",
+              "RelativeToolTip": "BankApplication\\Data\\InMemoryDataContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-26T14:38:03.082Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BankAccount.cs",
+              "DocumentMoniker": "C:\\Users\\ganga\\source\\repos\\BankApplication\\BankApplication\\Models\\BankAccount.cs",
+              "RelativeDocumentMoniker": "BankApplication\\Models\\BankAccount.cs",
+              "ToolTip": "C:\\Users\\ganga\\source\\repos\\BankApplication\\BankApplication\\Models\\BankAccount.cs",
+              "RelativeToolTip": "BankApplication\\Models\\BankAccount.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-26T14:33:41.628Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
